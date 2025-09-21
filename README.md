@@ -1,3 +1,3 @@
 Odin Recipes Project
 
-Part of the Foundations course
+Part of The Odin Project Foundations course. Implemented headers, paragraphs, lists, and images in this project.
